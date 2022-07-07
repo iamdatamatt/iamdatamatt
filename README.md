@@ -26,11 +26,11 @@ Principal Data Scientist & Technology Enthusiast
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="/img/airflow.png" width="36" height="36" alt="Airflow" /></a>
 <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="/img/digitalocean.png" width="36" height="36" alt="DigitalOcean" /></a>
 <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"><img src="/img/google-analytics.png" width="36" height="36" alt="Google Analytics" /></a>
 <a href="https://mjml.io/" target="_blank" rel="noreferrer"><img src="/img/mjml-logo.png" width="36" height="36" alt="MJML" /></a>
+</p>
 
 ### Socials
 

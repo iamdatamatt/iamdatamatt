@@ -1,10 +1,10 @@
 Hi 👋 My name is Matt Trombley
 =====================================================================================================================================
 
-Principal Data Scientist & Technology Enthusiast
+Senior Data Scientist & Technology Enthusiast
 ------------------------------------------------
 
-* 🌍  I'm based in Miami
+* 🌍  I'm based in Nashville
 * 🖥️  See my portfolio at [matthewtrombley.com](https://www.matthewtrombley.com/)
 * 📄  View my resume by [clicking here](https://www.matthewtrombley.com/docs/Trombley_Matthew_Resume_Web.pdf)
 * ✉️  You can contact me at [mattrtrombley@gmail.com](mailto:mattrtrombley@gmail.com)

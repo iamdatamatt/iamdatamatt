@@ -7,7 +7,6 @@ Senior Data Scientist & Technology Enthusiast
 * 🌍  I'm based in Nashville
 * 🖥️  See my portfolio at [matthewtrombley.com](https://www.matthewtrombley.com/)
 * 📄  View my resume by [clicking here](https://www.matthewtrombley.com/docs/Matthew_Trombley_Resume.pdf)
-* ✉️  You can contact me at [mattrtrombley@gmail.com](mailto:mattrtrombley@gmail.com)
 
 ### Skills
 

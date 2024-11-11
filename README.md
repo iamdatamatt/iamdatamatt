@@ -1,12 +1,9 @@
-Hi 👋 My name is Matt Trombley
-=====================================================================================================================================
+# Hi 👋 My name is Matt Trombley
 
-Data Scientist & Technology Enthusiast
-------------------------------------------------
-
+* 🏢  I currently work as a Senior Data Scientist @ [Shopify](https://www.shopify.com/)
 * 🌍  I'm based in Nashville
 * 🖥️  See my portfolio at [datamatt.io](https://datamatt.io/)
-* 📄  View my resume by [clicking here](https://datamatt.io/docs/Matthew_Trombley_Resume.pdf)
+* 📃  View my resume by [clicking here](https://cdn.datamatt.io/Matthew_Trombley_Resume.pdf)
 
 ### Skills
 

@@ -1,6 +1,6 @@
 # datamatt.io
 
-Welcome to my personal website. This site is built with Remix and hosted on Cloudflare Pages. Python & SQL are my primary tools being in data, so this website is an exercise to see what I can build using other tools like TypeScript, React, Remix, and Tailwind. Below are some helpful notes on setup, otherwise please browse around and enjoy! If you want to check out the live website, you can do so [here](https://datamatt.io).
+Welcome to my personal website. This site is built with Remix and hosted on Cloudflare Pages. Python & SQL are my primary tools being in data, so this website is an exercise to see what I can build using other tools like TypeScript, React, Remix, and Tailwind. Below are some helpful notes on setup, otherwise please browse around and enjoy! If you want to check out the live website, you can do so [here](https://datamatt.io). 
 
 ## Tech Stack
 

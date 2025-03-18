@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-title>The Sprint's founder reaching out</mj-title>
+    <mj-preview>Thanks for reading the Sprint.</mj-preview>
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway:400,500,700&display=swap" />
+    <mj-attributes>
+      <mj-text font-size="16px" line-height="24px" padding-top="6px" padding-bottom="6px" />
+      <mj-body background-color="#ffffff" />
+      <mj-divider border-width="2px" padding-top="10px" padding-bottom="10px" border-color="#D3D3D3" />
+      <mj-image padding-bottom="5px" padding-top="10px" />
+      <mj-section border-left="1px solid #D3D3D3" border-right="1px solid #D3D3D3" />
+      <mj-class name="footer-text" font-size="12px" line-height="12px" align="center" />
+      <mj-class name="footer-text-top" font-size="12px" line-height="12px" align="center" padding-top="25px" />
+      <mj-class name="footer-text-bottom" font-size="12px" line-height="12px" align="center" padding-bottom="25px" />
+      <mj-class name="top-text-right" font-size="12px" line-height="12px" align="right" />
+      <mj-class name="padding-section" border-left="0px" border-right="0px" padding-top="8px" padding-bottom="8px" />
+      <mj-class name="main-logo" width="481px" padding-bottom="20px" />
+      <mj-class name="section-top" border-top="1px solid #D3D3D3" padding-bottom="0px" />
+      <mj-class name="section-bottom" padding-bottom="0px" padding-top="0px" border-bottom="1px solid #D3D3D3" />
+      <mj-all font-family="Raleway, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+    .green-links a {
+      color: #67CA88;
+    }
+    </mj-style>
+    <mj-style>
+    .black-links a {
+      color: #000000;
+    }
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="green-links">
+    <mj-section mj-class="padding-section" css-class="black-links">
+    </mj-section>
+    <mj-section mj-class="section-top">
+      <mj-column>
+        <mj-image mj-class="main-logo" src="https://cdn.sidelinesprint.com/img/text-logo.png" alt="The Sideline Sprint logo."></mj-image>
+        <mj-text>Hey there,</mj-text>
+        <mj-text>This is a place to display some generic text.</mj-text>
+        <mj-text>Additionally, you can put something else here.</mj-text>
+        <mj-text>You can copy & paste this link to them: [referral_display_link,fallback=sidelinesprint.com]</mj-text>
+        <mj-text>Best,</mj-text>
+        <mj-text>The Sprint Team</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section-bottom" css-class="black-links">
+      <mj-column>
+        <mj-divider></mj-divider>
+        <mj-text mj-class="footer-text-top">If you want to become a free agent, you can safely <unsubscribe>unsubscribe</unsubscribe>.</mj-text>
+        <mj-text mj-class="footer-text">&copy; Sideline Sprint 2021. All Rights Reserved.</mj-text>
+        <mj-text mj-class="footer-text">2720 South Blvd #244, Charlotte, NC 28209</mj-text>
+        <mj-text mj-class="footer-text-bottom"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="padding-section"></mj-section>
+  </mj-body>
+</mjml>

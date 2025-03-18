@@ -1,0 +1,72 @@
+<mjml>
+  <mj-head>
+    <mj-title>On your mark, get set, Sprint</mj-title>
+    <mj-preview>Thanks for reading the Sprint.</mj-preview>
+    <mj-attributes>
+      <mj-text font-size="14px" line-height="21px" padding-top="6px" padding-bottom="6px" />
+      <mj-body background-color="#ffffff" />
+      <mj-divider border-width="1px" padding-top="10px" padding-bottom="10px" border-color="#D3D3D3" />
+      <mj-image padding-bottom="5px" padding-top="10px" />
+      <mj-class name="footer-text" font-size="12px" line-height="12px" align="center" />
+      <mj-class name="footer-text-top" font-size="12px" line-height="12px" align="center" padding-top="10px" />
+      <mj-class name="footer-text-bottom" font-size="12px" line-height="12px" align="center" padding-bottom="10px" />
+      <mj-class name="padding-section" border-left="0px" border-right="0px" padding-top="8px" padding-bottom="8px" />
+      <mj-class name="main-logo" width="300px" padding-bottom="20px" align="left" />
+      <mj-class name="section-top" padding-bottom="0px" />
+      <mj-class name="section-bottom" padding-bottom="0px" padding-top="0px" />
+      <mj-all font-family="Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+    .black-links a {
+      color: #000000;
+    }
+    </mj-style>
+    <mj-style>
+    .signup-ul ul {
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="black-links signup-ul">
+    <mj-section mj-class="section-top">
+      <mj-column>
+        <mj-image mj-class="main-logo" src="https://cdn.sidelinesprint.com/img/text-logo.png" alt="The Sideline Sprint logo."></mj-image>
+        <mj-text>Hey there,</mj-text>
+        <mj-text>Welcome to the Sprint team. It's readers like you who inspire us to create the best daily sports newsletter around. So, <span style="font-weight: bold;">thank you</span>.</mj-text>
+        <mj-text>Next, <span style="font-weight: bold;">let's make sure the Sprint hits your inbox</span> so you aren't missing out. Follow these quick steps:</mj-text>
+        <mj-text><span style="font-weight: bold;">Gmail users</span> - move the Sprint to your Primary inbox (otherwise, it may get lost in your Promotions)</mj-text>
+        <mj-text>
+          <ul>
+            <li><span style="font-weight: bold;">Mobile</span> - select the three dots in the top right corner, select 'Move to' and then select 'Primary'</li>
+            <li><span style="font-weight: bold;">Desktop</span> - back out of this email and then drag it to the Primary inbox</li>
+          </ul>
+        </mj-text>
+        <mj-text><span style="font-weight: bold;">Apple mail users</span> - select our email address at the top of this email and then select 'Add to VIPs'</mj-text>
+        <mj-divider></mj-divider>
+        <mj-text>What to expect...</mj-text>
+        <mj-text>
+          <ul>
+            <li>The <span style="font-weight: bold;">freshest</span> sports headlines</li>
+            <li><span style="font-weight: bold;">Skimmable</span> and enjoyable content</li>
+            <li>The <span style="font-weight: bold;">latest</span> scores and <span style="font-weight: bold;">biggest</span> upcoming games</li>
+          </ul>
+        </mj-text>
+        <mj-text>Feel free to reply to any Sprint emails with comments, questions, or (even better) fun sports facts.</mj-text>
+        <mj-text>Best,</mj-text>
+        <mj-text>Nathan Baugh</mj-text>
+        <mj-text>P.S. if you reply to this email with a simple 'Yes' you'd be helping us out.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section-bottom" css-class="black-links">
+      <mj-column>
+        <mj-divider></mj-divider>
+        <mj-text mj-class="footer-text-top">If you want to become a free agent, you can safely <unsubscribe>unsubscribe</unsubscribe>.</mj-text>
+        <mj-text mj-class="footer-text">&copy; Sideline Sprint 2021. All Rights Reserved.</mj-text>
+        <mj-text mj-class="footer-text">2720 South Blvd #244, Charlotte, NC 28209</mj-text>
+        <mj-text mj-class="footer-text-bottom"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="padding-section"></mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+    <mj-title>Confirm your subscription to Sideline Sprint</mj-title>
+    <mj-attributes>
+      <mj-text font-size="14px" line-height="21px" padding-top="6px" padding-bottom="6px" />
+      <mj-body background-color="#ffffff" />
+      <mj-divider border-width="1px" padding-top="10px" padding-bottom="10px" border-color="#D3D3D3" />
+      <mj-button font-size="16px" background-color="#67CA88" />
+      <mj-image padding-bottom="5px" padding-top="10px" />
+      <mj-class name="footer-text" font-size="12px" line-height="12px" align="center" />
+      <mj-class name="footer-text-top" font-size="12px" line-height="12px" align="center" padding-top="10px" />
+      <mj-class name="footer-text-bottom" font-size="12px" line-height="12px" align="center" padding-bottom="10px" />
+      <mj-class name="padding-section" border-left="0px" border-right="0px" padding-top="8px" padding-bottom="8px" />
+      <mj-class name="main-logo" width="300px" padding-bottom="20px" align="left" />
+      <mj-class name="section-top" padding-bottom="0px" />
+      <mj-class name="section-bottom" padding-bottom="0px" padding-top="0px" />
+      <mj-all font-family="Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+    .black-links a {
+      color: #000000;
+    }
+    </mj-style>
+    <mj-style>
+    .signup-ul ul {
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="black-links signup-ul">
+    <mj-section mj-class="section-top">
+      <mj-column>
+        <mj-image mj-class="main-logo" src="https://cdn.sidelinesprint.com/img/text-logo.png" alt="The Sideline Sprint logo."></mj-image>
+        <mj-text>Hey there,</mj-text>
+        <mj-text>One more step and you're in - just click the button below to confirm your subscription to Sideline Sprint.</mj-text>
+        <mj-button align="left" href="{CONFIRM_SUBSCRIPTION_URL}"><span class="bold">Confirm My Subscription</span></mj-button>
+        <mj-text>Button not working? Try copy and pasting this link into your browser:</mj-text>
+        <mj-text><a href="{CONFIRM_SUBSCRIPTION_URL}">{CONFIRM_SUBSCRIPTION_URL}</a></mj-text>
+        <mj-text>Best,</mj-text>
+        <mj-text>The Sprint Team</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="padding-section"></mj-section>
+  </mj-body>
+</mjml>

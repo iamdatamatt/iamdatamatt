@@ -1,0 +1,256 @@
+<mjml>
+  <mj-head>
+    <mj-title>{NEWSLETTER_TITLE}</mj-title>
+    <mj-preview>{PREHEADER_TEXT}</mj-preview>
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway:400,500,700&display=swap" />
+    <mj-attributes>
+      <mj-text font-size="16px" line-height="1.5" padding-top="6px" padding-bottom="6px" />
+      <mj-body background-color="#ffffff" />
+      <mj-divider border-width="2px" padding-top="10px" padding-bottom="10px" border-color="#D3D3D3" />
+      <mj-image padding-bottom="5px" padding-top="10px" />
+      <mj-social-element icon-padding="10px" />
+      <mj-social icon-size="24px" padding-top="0px" padding-bottom="0px" mode="horizontal" />
+      <mj-button font-size="16px" background-color="#67CA88" />
+      <mj-class name="gray-background" container-background-color="#EAECED" />
+      <mj-class name="green-background" container-background-color="#67CA88" />
+      <mj-class name="footer-text" font-size="14px" line-height="14px" align="center" />
+      <mj-class name="top-text-right" font-size="12px" line-height="12px" align="right" />
+      <mj-class name="source-attribution" padding-top="0px" padding-bottom="16px" />
+      <mj-class name="padding-section" padding-top="8px" padding-bottom="8px" />
+      <mj-class name="main-logo" width="481px" padding-bottom="20px" />
+      <mj-class name="section-body" border="1px solid #D3D3D3" padding-top="0px" padding-bottom="0px" border-radius="5px" />
+      <mj-class name="pb-25" padding-bottom="25px" />
+      <mj-class name="pt-25" padding-top="25px" />
+      <mj-class name="pt-10" padding-top="10px" />
+      <mj-all font-family="Raleway, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      .green-links a {
+        color: #67CA88;
+        text-decoration: underline;
+      }
+    </mj-style>
+    <mj-style>
+      .black-links a {
+        color: #000000;
+        text-decoration: underline;
+      }
+    </mj-style>
+    <mj-style>
+      .attribution-link a {
+        color: #A3A3A3;
+        font-size: 12px;
+      }
+    </mj-style>
+    <mj-style>
+      .list-no-margin ol,
+      .list-no-margin ul {
+        margin-bottom: 0;
+        margin-top: 0;
+      }
+    </mj-style>
+    <mj-style>
+      .li-6 li {
+        margin-bottom: 6px;
+      }
+    </mj-style>
+    <mj-style>
+      .bold {
+        font-weight: 700;
+      }
+    </mj-style>
+    <mj-style>
+      .uline {
+        text-decoration: underline;
+      }
+    </mj-style>
+    <mj-style>
+      .it {
+        font-style: italic;
+      }
+    </mj-style>
+    <mj-style>
+      .st {
+        text-decoration: line-through;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="green-links li-6 list-no-margin">
+    <mj-section mj-class="padding-section" css-class="black-links">
+      <mj-column>
+        <mj-text mj-class="top-text-right">Month Day, Year | <a href="{$url}">View Online</a></mj-text>
+        <mj-text mj-class="top-text-right"><a href="https://www.sidelinesprint.com">Sign Up</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section-body">
+      <mj-column>
+        <mj-image mj-class="main-logo" src="https://cdn.sidelinesprint.com/text-logo.png" alt="The Sideline Sprint logo."></mj-image>
+        <mj-text><span class="bold">Good morning.</span> Keep your introduction short and sweet. Let readers know what they're about to read in your newsletter (for example). If you want them to take action, make sure this text motivates the reader to click the button above.</mj-text>
+        <mj-text>If you need another line, you can use this. You can also copy and paste more sections.</mj-text>
+        <mj-text><span class="bold">In today's Sprint:</span></mj-text>
+        <mj-text>🏈</mj-text>
+        <mj-text>⚾️</mj-text>
+        <mj-text mj-class="pb-25">🏀</mj-text>
+        <mj-text mj-class="pt-10 gray-background"><span class="bold">Trivia:</span> Trivia question here.</mj-text>
+        <mj-text mj-class="gray-background">
+          <ol type="A">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        </mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">SPORT 1</span></mj-text>
+        <mj-text><span class="bold" style="font-size:24px;">Daily News</span></mj-text>
+        <mj-image src="https://via.placeholder.com/560x175" alt="The image for the first news story."></mj-image>
+        <mj-text><span class="attribution-link it ul"><a href="#">Via Source</a></span></mj-text>
+        <mj-text>Quick summary.</mj-text>
+        <mj-text><span class="bold">Emphasis point:</span> Elaborate here.</mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">Subheader</span></mj-text>
+        <mj-text>Let's check out the biggest games:</mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li>Item 1</li>
+          </ul>
+        </mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">SPORT 2</span></mj-text>
+        <mj-text><span class="bold" style="font-size:24px;">Daily News</span></mj-text>
+        <mj-image src="https://via.placeholder.com/560x175" alt="The image for the second story."></mj-image>
+        <mj-text><span class="attribution-link it ul"><a href="#">Via Source</a></span></mj-text>
+        <mj-text>Quick summary.</mj-text>
+        <mj-text><span class="bold">Emphasis point:</span> Elaborate here.</mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">Subheader</mj-text>
+        <mj-text>Let's check out the biggest games:</mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li>Item 1</li>
+          </ul>
+        </mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">SPORT 3</span></mj-text>
+        <mj-text><span class="bold" style="font-size:24px;">Daily News</span></mj-text>
+        <mj-image src="https://via.placeholder.com/560x175" alt="The image for the second story."></mj-image>
+        <mj-text><span class="attribution-link it ul"><a href="#">Via Source</a></span></mj-text>
+        <mj-text>Quick summary.</mj-text>
+        <mj-text><span class="bold">Emphasis point:</span> Elaborate here.</mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">Subheader</span></mj-text>
+        <mj-text>Let's check out the biggest games:</mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">AROUND THE LEAGUES</span></mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 1</span></mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 2</span></mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 3</span></mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 4</span></mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-text>(Record) <span class="bold"> Team <span class="uline">Score</span></span> vs. (Record) Team Score</mj-text>
+        <mj-text>
+          <ul>
+            <li> Item 1 </li>
+          </ul>
+        </mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">SPRINT'S PICKS</span></mj-text>
+        <mj-text><span class="bold">Stat:</span> Stat here.</mj-text>
+        <mj-text><span class="bold">Quote:</span> Quote here.</mj-text>
+        <mj-text><span class="bold">Highlight:</span> Highlight here.</mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">WATER COOLER TALK</span></mj-text>
+        <mj-text>🏈</mj-text>
+        <mj-text>⚾️</mj-text>
+        <mj-text>🏀</mj-text>
+        <mj-text>🏈</mj-text>
+        <mj-text>⚾️</mj-text>
+        <mj-text>🏀</mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">SHARE THE SPRINT</span></mj-text>
+        <mj-text>If you enjoy the Sprint, consider sharing it with a friend. Copy and paste this link to them: {$referral_display_link}</mj-text>
+        <mj-text>Or, you can share by clicking the button below.</mj-text>
+        <mj-button align="left" href="{$check_referrals_link}"><span class="bold">Click to Share</span></mj-button>
+        <mj-text>Want some changes? Reply to this email to let us know.</mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">DAY WATCHLIST</span></mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 1</span></mj-text>
+        <mj-text>Game</mj-text>
+        <mj-text>Game</mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 2</span></mj-text>
+        <mj-text>Game</mj-text>
+        <mj-text>Game</mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 3</span></mj-text>
+        <mj-text>Game</mj-text>
+        <mj-text>Game</mj-text>
+        <mj-text><span class="bold" style="font-size:20px;">SPORT 4</span></mj-text>
+        <mj-text>Game</mj-text>
+        <mj-text>Game</mj-text>
+        <mj-divider></mj-divider>
+        <mj-text><span class="bold" style="font-size:20px;color:#67CA88;">TRIVIA ANSWER</span></mj-text>
+        <mj-text mj-class="pb-25"><span class="bold">A.</span> Trivia answer.</mj-text>
+        <mj-social mj-class="green-background">
+          <mj-social-element href="https://www.twitter.com/sidelinesprint" src="https://cdn.sidelinesprint.com/twitter.png" alt="Twitter"></mj-social-element>
+          <mj-social-element href="https://www.facebook.com/sidelinesprint" src="https://cdn.sidelinesprint.com/facebook.png" alt="Facebook"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/sidelinesprint" src="https://cdn.sidelinesprint.cominstagram.png" alt="Instagram"></mj-social-element>
+          <mj-social-element href="https://www.sidelinesprint.com/home/" src="https://cdn.sidelinesprint.com/home.png" alt="Read More"></mj-social-element>
+        </mj-social>
+        <mj-text mj-class="footer-text pt-25 gray-background">Written by Sideline Sprint.</mj-text>
+        <mj-text mj-class="footer-text gray-background" css-class="black-links">Was this email forwarded to you? <a href="https://www.sidelinesprint.com">Sign up here</a>.</mj-text>
+        <mj-text mj-class="footer-text gray-background">Shoot us a note. We reply to every email received.</mj-text>
+        <mj-divider mj-class="gray-background"></mj-divider>
+        <mj-text mj-class="footer-text gray-background">&copy; Sideline Sprint 2021. All Rights Reserved.</mj-text>
+        <mj-text mj-class="footer-text gray-background">145 New Bern St. Charlotte, NC 28209</mj-text>
+        <mj-text mj-class="footer-text gray-background" css-class="black-links"><a href="https://www.sidelinesprint.com/home/advertise-with-us/">Advertise</a> | <a href="mailto:team@sidelinesprint.com">Contact</a></mj-text>
+        <mj-text mj-class="footer-text pb-25 gray-background" css-class="black-links"><a href="{$unsubscribe}">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="padding-section"></mj-section>
+  </mj-body>
+</mjml>

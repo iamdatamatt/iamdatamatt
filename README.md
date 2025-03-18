@@ -4,7 +4,7 @@
 - 🌍  I'm based in Nashville, TN
 - 🖥️  See my portfolio at [datamatt.io](https://datamatt.io/)
 - 📃 View my resume by [clicking here](https://cdn.datamatt.io/Matthew_Trombley_Resume.pdf)
-- This repo (iamdatamatt) is a monorepo of my public projects and websites
+- This repo ([iamdatamatt](https://github.com/iamdatamatt/iamdatamatt)) is a monorepo of my public projects and websites
 
 ### Work History
 

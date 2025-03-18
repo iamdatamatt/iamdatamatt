@@ -1,6 +1,6 @@
-![Sideline Sprint logo](/img/text-logo-large.png)
+![Sideline Sprint logo](/projects/sideline-sprint-tools/img/text-logo-large.png)
 
-![Sideline Sprint newsletter](/img/newsletter.png)
+![Sideline Sprint newsletter](/projects/sideline-sprint-tools/img/newsletter.png)
 
 # Sideline Sprint Tools Website
 
@@ -80,28 +80,28 @@ Sensitive information including API keys, logins, etc. have been masked.
 ## Related works
 
 If you're interested in seeing the other work I did for Sideline Sprint, please take a look at the following repos:
-- [Sideline Sprint Main Website](https://github.com/iamdatamatt/sideline-sprint-website)
-- [Sideline Sprint Miscellaneous Tools](https://github.com/iamdatamatt/sideline-sprint-misc)
+- [Sideline Sprint Main Website](https://github.com/iamdatamatt/iamdatamatt/tree/main/projects/sideline-sprint-website)
+- [Sideline Sprint Miscellaneous Tools](https://github.com/iamdatamatt/iamdatamatt/tree/main/projects/sideline-sprint-misc)
 
 ## Architecture
-![Sideline Sprint architecture diagram](/img/architecture-diagram.png)
+![Sideline Sprint architecture diagram](/projects/sideline-sprint-tools/img/architecture-diagram.png)
 
 ## Screenshots
 
 ### Tools Site
-![Sideline Sprint tools site](/img/tools-site.png)
+![Sideline Sprint tools site](/projects/sideline-sprint-tools/img/tools-site.png)
 
 ### Subscriber Overview Dashboard
-![Sideline Sprint subscriber overview dashboard](/img/overview-dashboard.png)
+![Sideline Sprint subscriber overview dashboard](/projects/sideline-sprint-tools/img/overview-dashboard.png)
 
 ### Website Article Uploader
-![Sideline Sprint website article uploader](/img/website-article-uploader.png)
+![Sideline Sprint website article uploader](/projects/sideline-sprint-tools/img/website-article-uploader.png)
 
 ### Image Uploader
-![Sideline Sprint image uploader](/img/image-uploader.png)
+![Sideline Sprint image uploader](/projects/sideline-sprint-tools/img/image-uploader.png)
 
 ### Single Subscriber Search
-![Sideline Sprint single subscriber search](/img/single-subscriber-search.png)
+![Sideline Sprint single subscriber search](/projects/sideline-sprint-tools/img/single-subscriber-search.png)
 
 ### Bulk Subscriber Search
-![Sideline Sprint bulk subscriber search](/img/bulk-subscriber-search.png)
+![Sideline Sprint bulk subscriber search](/projects/sideline-sprint-tools/img/bulk-subscriber-search.png)

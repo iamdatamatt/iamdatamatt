@@ -1,6 +1,6 @@
-![Sideline Sprint logo](/img/text-logo-large.png)
+![Sideline Sprint logo](/projects/sideline-sprint-misc/img/text-logo-large.png)
 
-![Sideline Sprint newsletter](/img/newsletter.png)
+![Sideline Sprint newsletter](/projects/sideline-sprint-misc/img/newsletter.png)
 
 # Sideline Sprint Miscellaneous Work
 
@@ -49,5 +49,5 @@ are linked to the specific provider we were using at a given time.
 ## Related works
 
 If you're interested in seeing the other work I did for Sideline Sprint, please take a look at the following repos:
-- [Sideline Sprint Main Website](https://github.com/iamdatamatt/sideline-sprint-website)
-- [Sideline Sprint Tools Website](https://github.com/iamdatamatt/sideline-sprint-tools)
+- [Sideline Sprint Main Website](https://github.com/iamdatamatt/iamdatamatt/tree/main/projects/sideline-sprint-website)
+- [Sideline Sprint Tools Website](https://github.com/iamdatamatt/iamdatamatt/tree/main/projects/sideline-sprint-tools)

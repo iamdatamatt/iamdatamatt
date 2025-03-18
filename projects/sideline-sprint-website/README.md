@@ -1,6 +1,6 @@
-![Sideline Sprint logo](/img/text-logo-large.png)
+![Sideline Sprint logo](projects/sideline-sprint-website/img/text-logo-large.png)
 
-![Sideline Sprint newsletter](/img/newsletter.png)
+![Sideline Sprint newsletter](projects/sideline-sprint-website/img/newsletter.png)
 
 # Sideline Sprint Main Website
 
@@ -60,22 +60,22 @@ This repo contains code for the main website of Sideline Sprint (i.e. what you w
 ## Related works
 
 If you're interested in seeing the other work I did for Sideline Sprint, please take a look at the following repos:
-- [Sideline Sprint Tools Website](https://github.com/iamdatamatt/sideline-sprint-tools)
-- [Sideline Sprint Miscellaneous Tools](https://github.com/iamdatamatt/sideline-sprint-misc)
+- [Sideline Sprint Tools Website](https://github.com/iamdatamatt/iamdatamatt/tree/main/projects/sideline-sprint-tools)
+- [Sideline Sprint Miscellaneous Tools](https://github.com/iamdatamatt/iamdatamatt/tree/main/projects/sideline-sprint-misc)
 
 ## Architecture
-![Sideline Sprint architecture diagram](/img/architecture-diagram.png)
+![Sideline Sprint architecture diagram](projects/sideline-sprint-website/img/architecture-diagram.png)
 
 ## Screenshots
 
 ### Desktop Homepage
-![Sideline Sprint desktop homepage](/img/desktop-homepage.png)
+![Sideline Sprint desktop homepage](projects/sideline-sprint-website/img/desktop-homepage.png)
 
 ### Mobile Homepage
-<img src="/img/mobile-homepage.png" width="300">
+<img src="projects/sideline-sprint-website/img/mobile-homepage.png" width="300">
 
 ### News Article Homepage
-![Sideline Sprint news homepage](/img/news-homepage.png)
+![Sideline Sprint news homepage](projects/sideline-sprint-website/img/news-homepage.png)
 
 ### News Article
-![Sideline Sprint news article](/img/news-article.png)
+![Sideline Sprint news article](projects/sideline-sprint-website/img/news-article.png)

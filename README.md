@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-- 🏢 I currently work as a Senior Data Scientist @ [Shopify](https://www.shopify.com/)
+- 🏢 I currently work as a Senior Analytics Engineer @ [Netflix](https://www.netflix.com/)
 - 🌍  I'm based in Nashville, TN
 - 🖥️  See my portfolio at [datamatt.io](https://datamatt.io/)
 - 📃 View my resume by [clicking here](https://cdn.datamatt.io/Matthew_Trombley_Resume.pdf)
@@ -8,8 +8,10 @@
 
 ### Work History
 
+- [Netflix](https://www.netflix.com/)
+  - Senior Analytics Engineer (2025 - Present)
 - [Shopify](https://www.shopify.com/)
-  - Senior Data Scientist (2023 - Present)
+  - Senior Data Scientist (2023 - 2025)
 - [8 Bits Wiser](https://8bitswiser.com/)
   - Founder & Lead Consultant (2022 - Present)
 - [Fidelity Investments](https://www.fidelity.com/)

@@ -1,6 +1,6 @@
-![Sideline Sprint logo](projects/sideline-sprint-website/img/text-logo-large.png)
+![Sideline Sprint logo](img/text-logo-large.png)
 
-![Sideline Sprint newsletter](projects/sideline-sprint-website/img/newsletter.png)
+![Sideline Sprint newsletter](img/newsletter.png)
 
 # Sideline Sprint Main Website
 
